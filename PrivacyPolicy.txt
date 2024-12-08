@@ -1,0 +1,38 @@
+Privacy Policy for Currency Converter
+
+Effective Date: 08/12/2024
+
+At Currency Converter, we are committed to protecting your privacy. This Privacy Policy describes the types of personal information that is collected, how it is used, and how we ensure your privacy while using our mobile application. Please read the following privacy policy to understand how we use and protect your information.
+
+1. Information We Collect
+We do not collect, store, or share any personal data through the Currency Converter app. No personally identifiable information (PII) is gathered or stored by the app. The app is designed to work solely by utilizing publicly available exchange rate data via an internet connection.
+
+2. Permissions
+The Currency Converter app requires the following permission:
+
+Internet Permission: This is used solely to access exchange rate data from online sources. The app does not access or collect any personal information related to your device or usage.
+We do not request any additional permissions, including access to your camera, location, contacts, microphone, or storage.
+
+3. Data Collection and Usage
+As stated, Currency Converter does not collect any personally identifiable information or any data related to your usage. No data is transmitted, stored, or shared by the app.
+
+The app uses the internet only to access real-time currency exchange rates. These rates are retrieved from publicly available sources and are displayed to users within the app. No personal information, usage data, or analytics are collected in the process.
+
+4. Third-Party Services
+The Currency Converter app does not use any third-party analytics or advertising services. The app is not integrated with third-party services and does not share any data with external parties.
+
+5. Security
+Since no personal information is collected, the need for specific data protection measures is minimized. However, we ensure that your internet connection is secure when fetching exchange rates. We use standard encryption protocols for data transmission to ensure that your connection remains private and secure.
+
+6. Changes to This Privacy Policy
+We reserve the right to update this Privacy Policy at any time. When changes are made, the updated Privacy Policy will be posted within the app and on the app's website (if applicable). The "Effective Date" at the top of this page will be updated to reflect the latest version. We encourage users to periodically review this Privacy Policy for any changes.
+
+7. Data Retention
+We do not collect or retain any data. As there is no personal information or usage data collected, there is nothing to retain.
+
+8. Your Rights
+As we do not collect any personal data, you have no rights to request the deletion or modification of any personal information, as none exists in our systems.
+
+9. Contact Us
+If you have any questions, concerns, or suggestions regarding this Privacy Policy, please contact us via email at:
+dimuthdezoysa@gmail.com
